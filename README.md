@@ -1,100 +1,26 @@
-# Hi, I'm Vince 👋  
+# Hey there 👋  
 
-🎓 Grade 11 Student
-💻 Aspiring Software Engineer | 🎮 Game Developer | 🌐 Networking Enthusiast  
-📍 Canada  
+I'm Vince, a grade 11 student and app developer based in Canada.
 
----
+I design and build systems — from immersive games to structured network labs.
 
-## 🚀 About Me
+If an idea challenges me, I build it.
 
-I'm building the foundation to work at companies like EA, Nintendo, Apple, or Microsoft.  
-Right now I'm focused on:
+My main focus areas are Linux, C++, Java, Python networking (CCNA), and scalable system design.  
+Favorite tools: Unreal Engine 5, Git, Cisco Packet Tracer, and a lot of whiteboard thinking.
 
-- 🎮 Game development  
-- 🌐 Cisco CCNA networking labs  
-- 💻 Systems thinking & software engineering fundamentals  
-- 🧠 Building long-term high-impact technical projects  
+I’ve built competitive game prototypes like **TeleClash**, accessibility-focused control systems, and structured networking labs.
 
-I believe in learning by building.
+If you're interested in ambitious student projects, game systems, or infrastructure thinking — welcome.
 
 ---
 
-## 🔥 Featured Projects
-
-### Tele-Clash — Adaptive Gesture-Based Game Control (Python / CV / ML)
-
-Tech highlights:
-• Real-time hand tracking with MediaPipe
-• KNN-based gesture classification
-• OpenCV for video input
-• PyAutoGUI for input simulation
-• Runs on standard laptops (no GPU required)
+### Fun Facts:
+- 🎮 I love fast-paced competitive game mechanics  
+- 🧠 I’m building a long-term “Knowledge OS” concept  
+- 🏐 Volleyball & track athlete  
+- ☕ I prefer productivity over caffeine  
 
 ---
 
-### 🌐 CCNA Network Lab Portfolio
-Collection of structured networking labs including:
-- Router & switch configuration  
-- VLAN setup  
-- Subnetting & IP addressing  
-- Topology documentation  
-
-> Goal: Build real-world networking skills, not just theory.
-
----
-
-### 🧠 MindGraph 
-Early-stage structured thinking system project.  
-Designed to improve how ideas connect and scale.
-
-> Goal: Build tools that enhance human thinking.
-
----
-
-## 🛠 Tech Stack
-
-**Game Development**
-- Unreal Engine 5
-- Blueprint scripting
-- Level design principles
-
-**Networking**
-- Cisco Packet Tracer
-- Router/Switch CLI
-- TCP/IP Fundamentals
-- Subnetting
-
-**Programming (Growing)**
-- Python
-- C++
-- Java
-- HTML/CSS/Javascript
-- Git & GitHub
-
----
-
-## 📜 Certifications & Development
-
-- Cisco CCNA (In Progress)
-- CompTIA++ (In Progress)
-
----
-
-## 📈 Current Focus
-
-Right now I am:
-- Improving C++/Java fundamentals
-- Designing structured AI behavior systems
-- Building advanced CCNA labs
-- Preparing for future engineering university applications
-
----
-
-## 🎯 Long-Term Vision
-
-I want to build immersive digital experiences and scalable systems that impact millions of people.
-
----
-
-⭐ If you’re interested in game systems, networking, or ambitious student projects — feel free to connect.
+Currently building. Always learning.
