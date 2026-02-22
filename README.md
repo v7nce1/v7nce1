@@ -1,6 +1,6 @@
 # Hi, I'm Vince 👋  
 
-🎓 Grade 10 Engineering Student (90% Average)  
+🎓 Grade 11 Student
 💻 Aspiring Software Engineer | 🎮 Game Developer | 🌐 Networking Enthusiast  
 📍 Canada  
 
@@ -11,7 +11,7 @@
 I'm building the foundation to work at companies like EA, Nintendo, Apple, or Microsoft.  
 Right now I'm focused on:
 
-- 🎮 Unreal Engine game development  
+- 🎮 Game development  
 - 🌐 Cisco CCNA networking labs  
 - 💻 Systems thinking & software engineering fundamentals  
 - 🧠 Building long-term high-impact technical projects  
@@ -22,15 +22,14 @@ I believe in learning by building.
 
 ## 🔥 Featured Projects
 
-### 🎮 TeleClash
-AI hand motion dectector to play Clash Royal
-Includes:
-- AI Emotes 
-- A
-- Cinematic wake-up sequence  
-- Combat + battlefield effects  
+### Tele-Clash — Adaptive Gesture-Based Game Control (Python / CV / ML)
 
-> Goal: Combine storytelling with technical gameplay systems.
+Tech highlights:
+• Real-time hand tracking with MediaPipe
+• KNN-based gesture classification
+• OpenCV for video input
+• PyAutoGUI for input simulation
+• Runs on standard laptops (no GPU required)
 
 ---
 
@@ -45,7 +44,7 @@ Collection of structured networking labs including:
 
 ---
 
-### 🧠 MindGraph (Knowledge OS Concept)
+### 🧠 MindGraph 
 Early-stage structured thinking system project.  
 Designed to improve how ideas connect and scale.
 
@@ -79,16 +78,13 @@ Designed to improve how ideas connect and scale.
 
 - Cisco CCNA (In Progress)
 - CompTIA++ (In Progress)
-- Engineering Pathway Student
-- Volleyball & Track Athlete
-- 200+ Volunteer Hours
 
 ---
 
 ## 📈 Current Focus
 
 Right now I am:
-- Improving C++ fundamentals for Unreal Engine
+- Improving C++/Java fundamentals
 - Designing structured AI behavior systems
 - Building advanced CCNA labs
 - Preparing for future engineering university applications
@@ -98,8 +94,6 @@ Right now I am:
 ## 🎯 Long-Term Vision
 
 I want to build immersive digital experiences and scalable systems that impact millions of people.
-
-This GitHub documents my journey from student to professional engineer.
 
 ---
 
