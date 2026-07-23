@@ -1,1 +1,1 @@
-founder @ quickspike
+building quickspike
