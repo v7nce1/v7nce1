@@ -1,1 +1,1 @@
-building nokko
+building nokoto: ai to-do list
